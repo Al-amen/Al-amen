@@ -9,8 +9,23 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Code
 
-- 🚀 About Me
-- I’m Al-Amen, a backend developer specializing in Python and Django. I focus on building scalable, secure, and efficient backend solutions for web applications, with expertise in crafting robust APIs, managing databases, and integrating backend functionalities with frontend technologies. My experience includes developing e-commerce platforms, social media apps, and dynamic content-driven websites. With a passion for writing clean, optimized code and ensuring secure data handling, I’m always eager to explore new technologies and deliver solutions that meet client needs. Let’s work together to bring your ideas to life!
+🚀 About Me
+Hi, I’m Al-Amen — a passionate Full-Stack Developer with a strong focus on Python (Django) for backend and React.js for frontend development. I specialize in building scalable, secure, and high-performance web applications, from designing robust APIs to crafting responsive user interfaces.
+
+🛠️ What I Do:
+💻 Backend Development with Django REST Framework: clean, efficient APIs, database management, authentication, and performance tuning.
+
+⚛️ Frontend Development with React.js: interactive UIs, state management, API integration, and seamless user experience.
+
+🛒 Project Experience: e-commerce platforms, social media apps, dashboards, and dynamic content-driven websites.
+
+🔐 Focus on code quality, security, and user-centered design.
+
+I enjoy turning ideas into reality with clean architecture and modern tools, collaborating across teams to deliver meaningful digital experiences.
+
+Let’s connect and build something awesome together! 🚀
+
+
 
 
 
